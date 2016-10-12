@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+  <title>welcome to wonderland posts</title>
+  <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+
+  
+</head>
+</body>
+<form role="form">
+  <div class="form-group">
+    <label for="email">Email address*</label>
+    <input type="email" class="form-control" id="email" placeholder="Enter email">
+  </div>
+
+  <div class="checkbox">
+    <label>
+    	Please select post category*:<br>	
+		<input type="radio" name="cate" value="lease">lease <br>
+		<input type="radio" name="cate" value="sublease">sublease
+    </label>
+  </div>
+
+  <div class="form-group">
+  	Please enter the information below if this post is for a new lease:<br>
+    <label for="start">start date</label> <br>
+    <input type="date" class="form-control" id="start" placeholder="YYYY-MM-DD"> <br>
+    <label for="end">end date</label> <br>
+    <input type="date" class="form-control" id="end" placeholder="YYYY-MM-DD"><br>
+    <label for="addr">street address</label>
+    <input type="date" class="form-control" id="addr" placeholder="Enter address">
+    <label for="city">select city</label>
+    <input type="radio" name="sex" value="c">champaign
+    <input type="radio" name="sex" value="u">urbana
+    <label for="price">price per month</label>
+    <input type="price" class="form-control" id="price" placeholder="Enter price">
+    <label for="beds">number of bedrooms</label>
+    <input type="radio" name="sex" value="c">1
+    <input type="radio" name="sex" value="u">2
+     <input type="radio" name="sex" value="c">3
+    <input type="radio" name="sex" value="u"> >4
+  </div>
+
+
+  <div class="form-group">
+    <label for="exampleInputEmail1">Please provide addtional information</label>
+    <textarea class="form-control" rows="3"></textarea>
+  </div>
+
+  <button type="submit" class="btn btn-info">Submit</button>
+</form>
+
+<?php
+if(isset($_POST['email'])) {
+     
+    // CHANGE THE TWO LINES BELOW
+    $email_to = "you@yourdomain.com";
+     
+    $email_subject = "website html form submissions";
+     
+     
+    function died($error) {
+        // your error code can go here
+        echo "We are very sorry, but there were error(s) found with the form you submitted. ";
+        echo "These errors appear below.<br /><br />";
+        echo $error."<br /><br />";
+        echo "Please go back and fix these errors.<br /><br />";
+        die();
+    }
+     
+    // validation expected data exists
+    if(!isset($_POST['first_name']) ||
+        !isset($_POST['last_name']) ||
+        !isset($_POST['email']) ||
+        !isset($_POST['telephone']) ||
+        !isset($_POST['comments'])) {
+        died('We are sorry, but there appears to be a problem with the form you submitted.');      
+    }
+     
+
+    $email_from = $_POST['email']; // required
+    $start_
+     
+    $error_message = "";
+    $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
+  if(!preg_match($email_exp,$email_from)) {
+    $error_message .= 'The Email Address you entered does not appear to be valid.<br />';
+  }
+    $string_exp = "/^[A-Za-z .'-]+$/";
+  if(!preg_match($string_exp,$first_name)) {
+    $error_message .= 'The First Name you entered does not appear to be valid.<br />';
+  }
+  if(!preg_match($string_exp,$last_name)) {
+    $error_message .= 'The Last Name you entered does not appear to be valid.<br />';
+  }
+  if(strlen($comments) < 2) {
+    $error_message .= 'The Comments you entered do not appear to be valid.<br />';
+  }
+  if(strlen($error_message) > 0) {
+    died($error_message);
+  }
+    $email_message = "Form details below.\n\n";
+     
+    function clean_string($string) {
+      $bad = array("content-type","bcc:","to:","cc:","href");
+      return str_replace($bad,"",$string);
+    }
+     
+    $email_message .= "First Name: ".clean_string($first_name)."\n";
+    $email_message .= "Last Name: ".clean_string($last_name)."\n";
+    $email_message .= "Email: ".clean_string($email_from)."\n";
+    $email_message .= "Telephone: ".clean_string($telephone)."\n";
+    $email_message .= "Comments: ".clean_string($comments)."\n";
+     
+     
+// create email headers
+$headers = 'From: '.$email_from."\r\n".
+'Reply-To: '.$email_from."\r\n" .
+'X-Mailer: PHP/' . phpversion();
+@mail($email_to, $email_subject, $email_message, $headers); 
+?>
+ 
+<!-- place your own success html below -->
+ 
+Thank you for contacting us. We will be in touch with you very soon.
+ 
+<?php
+}
+die();
+?>
+
+</body>
+</html>

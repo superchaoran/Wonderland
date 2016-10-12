@@ -1,0 +1,42 @@
+[06-Dec-2013 20:10:55 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:10:55 America/Chicago] PHP Notice:  Undefined index: h in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:10:55 America/Chicago] PHP Warning:  Illegal string offset 'template' in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:10:55 America/Chicago] PHP Notice:  Undefined index: h in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:10:55 America/Chicago] PHP Warning:  include_once(/home/wonderland/public_html/a): failed to open stream: No such file or directory in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:10:55 America/Chicago] PHP Warning:  include_once(): Failed opening './' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:10:59 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:10:59 America/Chicago] PHP Notice:  Undefined index: l in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:10:59 America/Chicago] PHP Warning:  Illegal string offset 'template' in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:10:59 America/Chicago] PHP Notice:  Undefined index: l in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:10:59 America/Chicago] PHP Warning:  include_once(/home/wonderland/public_html/a): failed to open stream: No such file or directory in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:10:59 America/Chicago] PHP Warning:  include_once(): Failed opening './' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:00 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:00 America/Chicago] PHP Notice:  Undefined index: r in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:00 America/Chicago] PHP Warning:  Illegal string offset 'template' in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:00 America/Chicago] PHP Notice:  Undefined index: r in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:00 America/Chicago] PHP Warning:  include_once(/home/wonderland/public_html/a): failed to open stream: No such file or directory in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:00 America/Chicago] PHP Warning:  include_once(): Failed opening './' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:01 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:01 America/Chicago] PHP Notice:  Undefined index: h in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:01 America/Chicago] PHP Warning:  Illegal string offset 'template' in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:01 America/Chicago] PHP Notice:  Undefined index: h in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:01 America/Chicago] PHP Warning:  include_once(/home/wonderland/public_html/a): failed to open stream: No such file or directory in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:01 America/Chicago] PHP Warning:  include_once(): Failed opening './' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:02 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:02 America/Chicago] PHP Notice:  Undefined index: l in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:02 America/Chicago] PHP Warning:  Illegal string offset 'template' in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:02 America/Chicago] PHP Notice:  Undefined index: l in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:02 America/Chicago] PHP Warning:  include_once(/home/wonderland/public_html/a): failed to open stream: No such file or directory in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:02 America/Chicago] PHP Warning:  include_once(): Failed opening './' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:03 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:03 America/Chicago] PHP Notice:  Undefined index: r in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:03 America/Chicago] PHP Warning:  Illegal string offset 'template' in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:03 America/Chicago] PHP Notice:  Undefined index: r in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:03 America/Chicago] PHP Warning:  include_once(/home/wonderland/public_html/a): failed to open stream: No such file or directory in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:03 America/Chicago] PHP Warning:  include_once(): Failed opening './' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:11 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:11 America/Chicago] PHP Notice:  Undefined index: h in /home/wonderland/public_html/a/index.php on line 100
+[06-Dec-2013 20:11:11 America/Chicago] PHP Warning:  Illegal string offset 'template' in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:11 America/Chicago] PHP Notice:  Undefined index: h in /home/wonderland/public_html/a/index.php on line 101
+[06-Dec-2013 20:11:11 America/Chicago] PHP Warning:  include_once(/home/wonderland/public_html/a): failed to open stream: No such file or directory in /home/wonderland/public_html/a/context.tmpl on line 4
+[06-Dec-2013 20:11:11 America/Chicago] PHP Warning:  include_once(): Failed opening './' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/a/context.tmpl on line 4

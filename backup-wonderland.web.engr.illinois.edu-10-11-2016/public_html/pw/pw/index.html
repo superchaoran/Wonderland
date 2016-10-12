@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+  <title>welcome to wonderland</title>
+  <link rel="shortcut icon" href="http://designshack.net/favicon.ico">
+  <link rel="icon" href="http://designshack.net/favicon.ico">
+  <link rel="stylesheet" type="text/css" media="all" href="style.css">
+  <!--<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">-->
+  <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+  <script type="text/javascript" charset="utf-8" src="js/jquery.leanModal.min.js"></script>
+  <!-- jQuery plugin leanModal under MIT License http://leanmodal.finelysliced.com.au/ -->
+</head>
+
+<body>
+  <div id="topbar"><a href="http://www.facebook.com">like us on facebook</a></div>
+  <div id="w">
+    <div class="content">
+      <h1>Welcome to the wonderland!</h1>
+      <left><a href="#loginmodal1" class="flatbtn" id="modaltrigger1">Member   Login</a></left>
+      <left><a href="#loginmodal2" class="flatbtn" id="modaltrigger2">Create account</a></left>
+    </div>  
+      <!--<button type="button" class="btn btn-default btn-lg">Large button</button>
+      <button type="button" class="btn btn-default btn-lg">Large button</button>-->
+    <div class="content">  
+      <a href="www.wonderland.com" class="large_btn" id = "view"> View Lease</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="www.wonderland.com" class="large_btn" id = "post"> Post Lease</a>
+    </div>
+  </div>
+  <div id="loginmodal1" style="display:none;" class = "loginmodal">
+    <h1>User Login</h1>
+    <form id="loginform" name="loginform" method="post" action="index.html" class = "loginform">
+      <label for="username">Username:</label>
+      <input type="text" name="username" id="username" class="txtfield" tabindex="1">
+      
+      <label for="password">Password:</label>
+      <input type="password" name="password" id="password" class="txtfield" tabindex="2">
+      
+      <div class="center"><input type="submit" name="loginbtn" id="loginbtn" class="flatbtn-blu hidemodal" value="Log In" tabindex="3"></div>
+    </form>
+  </div>
+  <div id="loginmodal2" style="display:none;" class = "loginmodal">
+    <h1>User signup</h1>
+    <form id="signupform" name="signupform" method="post" action="index.html" class = "loginform">
+      <label for="email">email address:</label>
+      <input type="text" name="email" id="email" class="txtfield" tabindex="1">
+      <label for="phone">phone number:</label>
+      <input type="text" name="phone" id="phone" class="txtfield" tabindex="1">
+      <label for="gender">gender:</label>
+      <input type="text" name="gender" id="gender" class="txtfield" tabindex="1">
+      <label for="password">Password:</label>
+      <input type="password" name="password" id="password" class="txtfield" tabindex="2">
+      <label for="retype">Retype password:</label>
+      <input type="retype" name="retype" id="retype" class="txtfield" tabindex="2">
+      <div class="center"><input type="submit" name="loginbtn" id="loginbtn" class="flatbtn-blu hidemodal" value="Sign up" tabindex="3"></div>
+    </form>
+  </div>
+<script type="text/javascript">
+$(function(){
+  $('#loginform').submit(function(e){
+    return false;
+  });
+  $('#singupform').submit(function(e){
+    return false;
+  });
+  
+  $('#modaltrigger1').leanModal({ top: 110, overlay: 0.45, closeButton: ".hidemodal" });
+  $('#modaltrigger2').leanModal({ top: 110, overlay: 0.45, closeButton: ".hidemodal" });
+});
+</script>
+</body>
+</html>

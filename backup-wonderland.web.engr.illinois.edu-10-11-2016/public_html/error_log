@@ -1,0 +1,294 @@
+[12-Nov-2013 21:21:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 21:23:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 21:31:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 21:33:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 21:38:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 21:41:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 21:59:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 22:03:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 22:04:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 22:04:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 22:06:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 22:09:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 11
+[12-Nov-2013 22:13:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 12
+[12-Nov-2013 22:14:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 12
+[12-Nov-2013 22:24:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 12
+[12-Nov-2013 22:25:03 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/wonderland/public_html/index.php on line 5
+[12-Nov-2013 22:25:53 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/wonderland/public_html/index.php on line 5
+[12-Nov-2013 22:25:57 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/wonderland/public_html/index.php on line 5
+[12-Nov-2013 22:28:26 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/wonderland/public_html/index.php on line 5
+[12-Nov-2013 22:28:38 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/wonderland/public_html/index.php on line 5
+[12-Nov-2013 22:29:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 12
+[12-Nov-2013 22:30:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 13
+[12-Nov-2013 22:34:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 13
+[12-Nov-2013 22:35:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 13
+[12-Nov-2013 22:41:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 13
+[12-Nov-2013 22:45:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 13
+[12-Nov-2013 22:53:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 13
+[12-Nov-2013 22:59:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/wonderland/public_html/users.html.php on line 19
+[12-Nov-2013 23:06:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/wonderland/public_html/index.php on line 34
+[12-Nov-2013 23:06:30 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/wonderland/public_html/index.php on line 33
+[12-Nov-2013 23:06:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/wonderland/public_html/index.php on line 35
+[13-Nov-2013 13:21:33 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/wonderland/public_html/addForm.php on line 59
+[13-Nov-2013 13:22:01 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/wonderland/public_html/addForm.php on line 59
+[13-Nov-2013 13:22:34 America/Chicago] PHP Fatal error:  Call to undefined function CURDATE() in /home/wonderland/public_html/addForm.php on line 66
+[13-Nov-2013 13:24:01 America/Chicago] PHP Fatal error:  Call to undefined function CURDATE() in /home/wonderland/public_html/addForm.php on line 66
+[13-Nov-2013 13:48:15 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/wonderland/public_html/addForm.php on line 78
+[13-Nov-2013 14:02:20 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/wonderland/public_html/addForm.php on line 78
+[13-Nov-2013 14:03:13 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/wonderland/public_html/addForm.php on line 78
+[13-Nov-2013 14:06:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/wonderland/public_html/addForm.php on line 126
+[13-Nov-2013 14:09:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/users.html.php:13) in /home/wonderland/public_html/addForm.php on line 134
+[13-Nov-2013 14:40:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting catch (T_CATCH) in /home/wonderland/public_html/addForm.php on line 104
+[13-Nov-2013 16:13:55 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/wonderland/public_html/addForm.php on line 88
+[13-Nov-2013 16:18:13 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/wonderland/public_html/addForm.php on line 122
+[13-Nov-2013 16:28:19 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/wonderland/public_html/addForm.php on line 91
+[13-Nov-2013 17:24:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/addForm.php:209) in /home/wonderland/public_html/addForm.php on line 241
+[13-Nov-2013 17:25:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/addForm.php:209) in /home/wonderland/public_html/addForm.php on line 242
+[13-Nov-2013 17:28:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/addForm.php:210) in /home/wonderland/public_html/addForm.php on line 243
+[13-Nov-2013 17:31:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/addForm.php:210) in /home/wonderland/public_html/addForm.php on line 244
+[13-Nov-2013 22:29:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 22:29:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 22:48:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 22:48:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 22:59:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 23:00:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 23:00:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 23:02:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 23:03:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 23:03:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 23:03:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[13-Nov-2013 23:18:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 00:12:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 00:12:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 07:33:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 07:33:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 09:05:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 14:41:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 15:44:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 15:44:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 15:50:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[14-Nov-2013 15:59:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[15-Nov-2013 08:26:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[15-Nov-2013 08:27:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[16-Nov-2013 22:33:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[17-Nov-2013 01:20:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[17-Nov-2013 01:37:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[17-Nov-2013 01:37:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[17-Nov-2013 01:38:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[18-Nov-2013 20:41:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[18-Nov-2013 20:43:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 44
+[19-Nov-2013 12:57:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[20-Nov-2013 11:17:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[20-Nov-2013 17:16:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[20-Nov-2013 17:18:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[20-Nov-2013 22:14:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[20-Nov-2013 22:15:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[20-Nov-2013 22:15:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[21-Nov-2013 09:53:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[21-Nov-2013 09:53:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[27-Nov-2013 02:19:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[05-Dec-2013 00:52:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/wonderland/public_html/users.html.php on line 63
+[10-Dec-2013 17:48:55 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 79
+[10-Dec-2013 18:57:19 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 79
+[10-Dec-2013 19:06:18 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 80
+[10-Dec-2013 19:06:49 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 80
+[10-Dec-2013 19:06:51 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 80
+[10-Dec-2013 19:08:19 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 85
+[10-Dec-2013 19:09:11 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 85
+[10-Dec-2013 19:09:13 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 85
+[10-Dec-2013 19:10:44 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 122
+[10-Dec-2013 19:17:00 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 122
+[10-Dec-2013 19:17:42 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 122
+[10-Dec-2013 19:17:46 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 122
+[10-Dec-2013 19:19:15 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 84
+[10-Dec-2013 19:20:20 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 211
+[10-Dec-2013 19:21:21 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 93
+[10-Dec-2013 19:21:30 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 93
+[10-Dec-2013 19:21:40 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 93
+[10-Dec-2013 19:22:58 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 93
+[10-Dec-2013 19:30:53 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 135
+[10-Dec-2013 19:32:15 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 135
+[10-Dec-2013 19:32:40 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:38:42 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:40:13 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:43:04 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:47:48 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:52:10 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:53:16 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:54:43 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:55:48 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:56:32 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 19:57:21 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:00:29 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:03:16 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:04:01 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:04:20 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:04:24 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:05:08 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:05:22 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:05:24 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:05:55 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:05:56 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:06:31 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:07:40 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:07:51 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:09:29 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:10:04 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:10:17 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:10:37 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:11:03 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:11:39 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:11:44 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:11:58 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:12:00 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:12:02 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:12:17 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:12:40 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:12:46 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:13:07 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:13:21 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:13:50 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:14:16 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:14:54 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:15:18 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:15:40 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:16:30 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:17:52 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:19:19 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:19:51 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:21:01 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:21:56 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:23:32 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:25:20 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:26:44 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:26:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:27:09 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:27:11 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:27:14 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:27:14 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:28:59 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:29:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:29:19 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:29:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:30:45 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:30:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:31:21 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:31:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:31:43 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:32:16 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:32:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:33:17 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:33:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$thisid' (T_VARIABLE) in /home/wonderland/public_html/updateForm.php on line 52
+[10-Dec-2013 20:37:33 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:38:01 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:38:14 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:40:37 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:40:50 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 137
+[10-Dec-2013 20:43:47 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 136
+[10-Dec-2013 20:59:12 America/Chicago] PHP Fatal error:  Call to undefined function htmlout() in /home/wonderland/public_html/updateformuser.php on line 136
+[11-Dec-2013 04:01:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 71
+[11-Dec-2013 04:02:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 71
+[11-Dec-2013 04:02:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 71
+[11-Dec-2013 09:30:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 71
+[11-Dec-2013 09:54:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 09:54:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 09:54:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 09:54:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 09:54:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 09:55:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 09:56:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 10:04:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 10:05:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 10:06:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 10:06:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wonderland/public_html/index.php:38) in /home/wonderland/public_html/index.php on line 72
+[11-Dec-2013 13:21:28 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/wonderland/public_html/index.php on line 23
+[11-Dec-2013 13:21:51 America/Chicago] PHP Warning:  include(/core/login_bar.php): failed to open stream: No such file or directory in /home/wonderland/public_html/index.php on line 23
+[11-Dec-2013 13:21:51 America/Chicago] PHP Warning:  include(): Failed opening '/core/login_bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/index.php on line 23
+[11-Dec-2013 13:22:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/index.php:23) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:42:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:43:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/core/login_bar.php:2) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:43:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/core/login_bar.php:2) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:45:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/core/login_bar.php:2) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:45:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/core/login_bar.php:2) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:45:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/index.php:25) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:52:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/index.php:25) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:53:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/index.php:25) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 13:53:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wonderland/public_html/index.php:25) in /home/wonderland/public_html/core/login_bar.php on line 3
+[11-Dec-2013 14:16:46 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/wonderland/public_html/core/login_bar.php on line 6
+[11-Dec-2013 14:39:17 America/Chicago] PHP Warning:  include(/core/login_bar.php): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 94
+[11-Dec-2013 14:39:17 America/Chicago] PHP Warning:  include(): Failed opening '/core/login_bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 94
+[11-Dec-2013 15:15:39 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:15:39 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:15:46 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:15:46 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:16:31 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=1212 West Anthony, Champaign, IL 61821): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:16:31 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=1212 West Anthony, Champaign, IL 61821' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:16:45 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=1613 Valley Road # A1.): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:16:45 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=1613 Valley Road # A1.' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:17:27 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=\'710 W. Stoughton, Urbana, IL\'): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:17:27 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=\'710 W. Stoughton, Urbana, IL\'' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:17:53 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=\'1613 Valley Road # A1.\'): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:17:53 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=\'1613 Valley Road # A1.\'' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:19:01 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:19:01 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:19:22 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=1613 Valley Road # A1.): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:19:22 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=1613 Valley Road # A1.' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:19:42 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:19:42 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:21:45 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:21:45 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=710 W. Stoughton, Urbana, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:22:10 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=1613 Valley Road # A1.): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:22:10 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=1613 Valley Road # A1.' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 139
+[11-Dec-2013 15:27:14 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=203 S 6th St, Champaign, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:27:14 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=203 S 6th St, Champaign, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:29:28 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=&quot;203 S 6th St, Champaign, IL&quot;): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:29:28 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=&quot;203 S 6th St, Champaign, IL&quot;' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:30:08 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?&quot;address=203 S 6th St, Champaign, IL&quot;): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:30:08 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?&quot;address=203 S 6th St, Champaign, IL&quot;' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:37:07 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?lol&quot;address=203 S 6th St, Champaign, IL&quot;): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:37:07 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?lol&quot;address=203 S 6th St, Champaign, IL&quot;' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:39:17 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:39:17 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:39:38 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=203 S 6th St, Champaign, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 141
+[11-Dec-2013 15:39:38 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=203 S 6th St, Champaign, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 141
+[11-Dec-2013 15:40:02 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=Array): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 141
+[11-Dec-2013 15:40:02 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=Array' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 141
+[11-Dec-2013 15:41:20 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:41:20 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:41:42 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php%?address=203 S 6th St, Champaign, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 141
+[11-Dec-2013 15:41:42 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php%?address=203 S 6th St, Champaign, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 141
+[11-Dec-2013 15:42:01 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=203 S 6th St, Champaign, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 141
+[11-Dec-2013 15:42:01 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=203 S 6th St, Champaign, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 141
+[11-Dec-2013 15:43:00 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=203%20S%206th%20St,%20Urbana,%20IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 142
+[11-Dec-2013 15:43:00 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=203%20S%206th%20St,%20Urbana,%20IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 142
+[11-Dec-2013 15:43:21 America/Chicago] PHP Warning:  include(/home/wonderland/public_html%2Fmap%2Ffinal_map.php%3F): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:43:21 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html%2Fmap%2Ffinal_map.php%3F' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:43:57 America/Chicago] PHP Warning:  include(/home/wonderland/public_html%2Fmap%2Ffinal_map.php%3Faddress%3Dlol): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:43:57 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html%2Fmap%2Ffinal_map.php%3Faddress%3Dlol' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:44:12 America/Chicago] PHP Warning:  include(/home/wonderland/public_html%2Fmap%2Ffinal_map.php%3Faddress%3Dlol): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:44:12 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html%2Fmap%2Ffinal_map.php%3Faddress%3Dlol' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:44:42 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address=203 S 6th St, Champaign, IL): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 142
+[11-Dec-2013 15:44:42 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address=203 S 6th St, Champaign, IL' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 142
+[11-Dec-2013 15:48:59 America/Chicago] PHP Warning:  include(/home/wonderland/public_html%2Fmap%2Ffinal_map.php): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:48:59 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html%2Fmap%2Ffinal_map.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:54:30 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address='2'): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:54:30 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address='2'' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:56:33 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address='2'): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:56:33 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address='2'' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:57:04 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address='2'): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:57:04 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address='2'' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:57:33 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address='2'): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:57:33 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address='2'' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:58:11 America/Chicago] PHP Warning:  include(/home/wonderland/public_html/map/final_map.php?address='2'): failed to open stream: No such file or directory in /home/wonderland/public_html/displaypost.php on line 140
+[11-Dec-2013 15:58:11 America/Chicago] PHP Warning:  include(): Failed opening '/home/wonderland/public_html/map/final_map.php?address='2'' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wonderland/public_html/displaypost.php on line 140
+[21-Dec-2015 00:01:03 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/wonderland/public_html/view.php on line 50
+[21-Dec-2015 00:01:22 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/wonderland/public_html/view.php on line 49
+[21-Dec-2015 00:47:12 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wonderland/public_html/users.html.php on line 70
+[21-Dec-2015 00:48:13 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wonderland/public_html/users.html.php on line 70
+[21-Dec-2015 00:49:34 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wonderland/public_html/users.html.php on line 70
+[21-Dec-2015 00:49:35 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wonderland/public_html/users.html.php on line 70
+[21-Dec-2015 02:10:14 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/wonderland/public_html/addForm.php on line 15
+[21-Dec-2015 02:18:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/wonderland/public_html/addForm.php on line 56
+[21-Dec-2015 02:18:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/wonderland/public_html/addForm.php on line 56
+[23-Dec-2015 02:53:46 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wonderland/public_html/addForm.php on line 13
+[23-Dec-2015 22:53:53 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wonderland/public_html/addForm.php on line 13
